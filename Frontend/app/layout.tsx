@@ -15,8 +15,8 @@ const lato = Lato({
 })
 
 export const metadata = {
-  title: 'ANII - Premium Photography',
-  description: 'Anii photography capturing timeless moments with artistry and sophistication',
+  title: 'Anii Photography - Capturing Timeless Moments',
+  description: 'Elegant Photography That Tells Your Story with Artistry and Sophistication',
   generator: 'v0.app',
 }
 
