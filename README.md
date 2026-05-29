@@ -160,7 +160,7 @@ CONTACT_EMAIL=contact@aniiphotography.com
 
 ```bash
 # Clone the repository
-git clone https://github.com/sohambanik11/ani_photography_main.git
+git clone https://github.com/riyankanandi/AniiPhotographyMain.git
 
 cd ani_photography_main
 
